@@ -147,6 +147,3 @@ POST /predict
 * Add database support (MongoDB / Postgres)
 * Add monitoring (Cloud Logging / Metrics)
 
-
-✅ A short description for your LinkedIn post
-Just tell me!
