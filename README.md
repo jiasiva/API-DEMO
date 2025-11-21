@@ -1,7 +1,4 @@
-Here is a **clean, professional, production-ready README.md** for your **API-END2END (FastAPI → Google Cloud Run)** project.
-You can copy-paste this directly into your GitHub repository. 👇
 
----
 
 # 🚀 FastAPI End-to-End API – Build, Secure & Deploy on Google Cloud Run
 
